@@ -41,6 +41,7 @@
 </head>
 
 <body>
+    <%@include file="newjsp.jsp" %>
 <div class="container-fluid">
 	<div class="row-fluid">
 		<div class="span12">
